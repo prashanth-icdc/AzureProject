@@ -1,6 +1,6 @@
-# Spotify Streaming Analytics - Azure Data Engineering Project
+# Real-Time Music Streaming Data Lakehouse - Azure Data Engineering Project
 
-> End-to-end data engineering solution on Azure Cloud using Medallion Architecture to process Spotify streaming data from Azure SQL Database to Delta Lake with incremental CDC, SCD Type 2, and real-time alerting
+> End-to-end data engineering solution on Azure Cloud using Medallion Architecture to process  streaming data from Azure SQL Database to Delta Lake with incremental CDC, SCD Type 2, and real-time alerting
 
 ---
 
